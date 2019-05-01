@@ -40,8 +40,8 @@
       "Assignment":"CW1",
       "submission_date": "05/05/19",
       "Number_of_hours": "2",
-      "Volume":["1000 words", "4000 words"],
-      "weights":["20%", "80%"],
+      "Volume": "4000 words",
+      "weights": "100%",
       "Number_of_credits": "20",
       "Lead_academic": "Dave Walsh",
         "Time_Slot": {
@@ -67,15 +67,15 @@
       "Assignment":["CW1", "CW2"],
       "submission_date": "08/05/19",
       "Number_of_hours": "4",
-      "Volume":["1000 words", "4000 words"],
+      "Volume":["1500 words", "5000 words"],
       "weights":["20%", "80%"],
       "Number_of_credits": "20",
       "Lead_academic": "Hari Pandey",
-      "Time_Slot": {
-        "Day": "Friday",
-        "Time": ["11:00", "13:00"],
-        "Room": "G02",
-        "Tutor": "Dave Walsh",
+        "Time_Slot": {
+          "Day": "Friday",
+          "Time": ["11:00", "13:00"],
+          "Room": "G02",
+          "Tutor": "Dave Walsh",
 
     },
   },
