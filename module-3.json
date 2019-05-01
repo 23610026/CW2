@@ -1,33 +1,84 @@
 [
   {
-    "Name": "Undergraduate",
-    "Course":"Web Development",
+    "Name": "Post-Graduate Graduate",
+    "Course":"Cyber Security",
+    "Identification_code": "CIS4010",
+    "Learning_outcomes": ["L03", "LO4"],
+    "Exit_awards": ["1", "2:1", "2:2", "3"],
+    "Degree_leader": "Collette Gavan",
     "Module": {
-      "Learning_outcomes":["LO1", "LO2"],
-      "Assignment":["CW1", "CW2"],
-      "Volume":["1000 words", "4000 words"],
-      "weights":["20%", "80%"]
-    }
+      "Name": "System Penetration Testing",
+      "Identification_code": "CIS4120",
+      "Learning_outcomes":["LO3", "LO5"],
+      "Assignment":["CW1", "CW2", "CW3"],
+      "submission_date": "01/05/19",
+      "Number_of_hours": "7",
+      "Volume":["5000 words", "300 words", "1000 words"],
+      "weights":["50%", "15%", "35%"],
+      "Number_of_credits": "20",
+      "Lead_academic": "Andrew Turner",
+        "Time_Slot": {
+          "Day": ["Tuesday", "Wednesday"],
+          "Time": ["10:00", "11:00"],
+          "Room": ["F02", "G03"],
+          "Tutor": "Collette Gavan",
+      },
+
+    },
   },
   {
-    "Name": "Post-Graduate",
-    "Course":"Big Data",
+    "Name": "Postgraduate",
+    "Course":"Computing",
+    "Identification_code": "CIS4223",
+    "Learning_outcomes": ["L02", "LO3"],
+    "Exit_awards": ["1", "2:1", "2:2", "3"],
+    "Degree_leader": "Patrick Burns",
     "Module": {
-    "Learning_outcomes":["LO1", "LO2"],
-    "Assignment":["CW1", "CW2"],
-    "Volume":["1000 words", "4000 words"],
-    "weights":["20%", "80%"]
-    }
+      "Name": "System Testing",
+      "Identification_code": "CIS4214",
+      "Learning_outcomes":["LO1", "LO2"],
+      "Assignment":"CW1",
+      "submission_date": "08/05/19",
+      "Number_of_hours": "2",
+      "Volume":"6000 words",
+      "weights":"100%",
+      "Number_of_credits": "20",
+      "Lead_academic": "Nathan Smart",
+        "Time_Slot": {
+          "Day": ["Thursday"],
+          "Time": "13:00",
+          "Room": "G05",
+          "Tutor": "Hari Pandey",
+    },
+
+  },
   },
   {
-    "Name": "Research",
-    "Course":"Data Mining",
+    "Name": "Postgraduate",
+    "Course":"Games Development",
+    "Identification_code": "CIS4441",
+    "Learning_outcomes": ["L02", "LO3"],
+    "Exit_awards": ["1", "2:1", "2:2", "3"],
+    "Degree_leader": "Joseph Wale",
     "Module": {
-      "Learning_outcomes":["LO1", "LO2"],
+      "Name": "Character Design",
+      "Identification_code": "CIS4451",
+      "Learning_outcomes":["LO1", "LO3"],
       "Assignment":["CW1", "CW2"],
-      "Volume":["1000 words", "4000 words"],
-      "weights":["20%", "80%"]
-    }
-    
-  }
+      "submission_date": "14/05/19",
+      "Number_of_hours": "4",
+      "Volume":["3000 words", "1000 words"],
+      "weights":["75%", "25%"],
+      "Number_of_credits": "20",
+      "Lead_academic": "Patrick Orange",
+        "Time_Slot": {
+          "Day": ["Monday", "Thursday"],
+          "Time": ["13:00", "13:00"],
+          "Room": "F01",
+          "Tutor": "Andrew Turner",
+
+    },
+  },
+},
+
 ]
