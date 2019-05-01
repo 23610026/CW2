@@ -3,6 +3,7 @@
     "Name": "Undergraduate",
     "Course":"Web Development",
     "Code": "CIS2001",
+    "LearningOutcomes": ["L01", "LO2"],
     "Module": {
       "Learning_outcomes":["LO1", "LO2"],
       "Assignment":["CW1", "CW2"],
@@ -14,6 +15,7 @@
     "Name": "Post-Graduate",
     "Course":"Big Data",
     "Code": "CIS2005",
+    "LearningOutcomes": ["L02", "LO3"],
     "Module": {
     "Learning_outcomes":["LO1", "LO2"],
     "Assignment":["CW1", "CW2"],
@@ -25,6 +27,7 @@
     "Name": "Research",
     "Course":"Data Mining",
     "Code": "CIS2002",
+    "LearningOutcomes": ["L01", "LO3"],
     "Module": {
       "Learning_outcomes":["LO1", "LO2"],
       "Assignment":["CW1", "CW2"],
