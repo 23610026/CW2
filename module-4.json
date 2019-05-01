@@ -2,11 +2,32 @@
   {
     "Name": "Undergraduate",
     "Course":"Web Development",
-    "Code": "CIS2001",
-    "LearningOutcomes": ["L01", "LO2"],
-    "ExitAwards": ["1", "2:1", "2:2", "3"],
-    "DegreeLeader": "Dave Walsh",
-
+    "Module": {
+      "Learning_outcomes":["LO1", "LO2"],
+      "Assignment":["CW1", "CW2"],
+      "Volume":["1000 words", "4000 words"],
+      "weights":["20%", "80%"]
+    }
+  },
+  {
+    "Name": "Post-Graduate",
+    "Course":"Big Data",
+    "Module": {
+    "Learning_outcomes":["LO1", "LO2"],
+    "Assignment":["CW1", "CW2"],
+    "Volume":["1000 words", "4000 words"],
+    "weights":["20%", "80%"]
+    }
+  },
+  {
+    "Name": "Research",
+    "Course":"Data Mining",
+    "Module": {
+      "Learning_outcomes":["LO1", "LO2"],
+      "Assignment":["CW1", "CW2"],
+      "Volume":["1000 words", "4000 words"],
+      "weights":["20%", "80%"]
+    }
   }
   
 ]
