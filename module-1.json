@@ -2,32 +2,83 @@
   {
     "Name": "Undergraduate",
     "Course":"Web Development",
+    "Identification_code": "CIS2001",
+    "Learning_outcomes": ["L01", "LO2"],
+    "Exit_awards": ["1", "2:1", "2:2", "3"],
+    "Degree_leader": "Dave Walsh",
     "Module": {
+      "Name": "Data Driven Design",
+      "Identification_code": "CIS2169",
       "Learning_outcomes":["LO1", "LO2"],
       "Assignment":["CW1", "CW2"],
+      "submission_date": "02/05/19",
+      "Number_of_hours": "3",
       "Volume":["1000 words", "4000 words"],
-      "weights":["20%", "80%"]
-    }
+      "weights":["20%", "80%"],
+      "Number_of_credits": "20",
+      "Lead_academic": "Peter Matthew",
+        "Time_Slot": {
+          "Day": ["Monday", "Thursday"],
+          "Time": "13:00",
+          "Room": "F02",
+          "Tutor": "Peter Matthews",
+      },
+
+    },
   },
   {
-    "Name": "Post-Graduate",
-    "Course":"Big Data",
+    "Name": "Undergraduate",
+    "Course":"Forensics",
+    "Identification_code": "CIS2005",
+    "Learning_outcomes": ["L02", "LO3"],
+    "Exit_awards": ["1", "2:1", "2:2", "3"],
+    "Degree_leader": "Hari Pandey",
     "Module": {
-    "Learning_outcomes":["LO1", "LO2"],
-    "Assignment":["CW1", "CW2"],
-    "Volume":["1000 words", "4000 words"],
-    "weights":["20%", "80%"]
-    }
-  },
-  {
-    "Name": "Research",
-    "Course":"Data Mining",
-    "Module": {
+      "Name": "Big Data",
+      "Identification_code": "CIS2166",
       "Learning_outcomes":["LO1", "LO2"],
-      "Assignment":["CW1", "CW2"],
+      "Assignment":"CW1",
+      "submission_date": "05/05/19",
+      "Number_of_hours": "2",
       "Volume":["1000 words", "4000 words"],
-      "weights":["20%", "80%"]
-    }
-  }
-  
+      "weights":["20%", "80%"],
+      "Number_of_credits": "20",
+      "Lead_academic": "Dave Walsh",
+        "Time_Slot": {
+          "Day": ["Wednesday", "Thursday"],
+          "Time": "11:00",
+          "Room": "G02",
+          "Tutor": "Hari Pandey",
+    },
+
+  },
+  },
+  {
+    "Name": "Undergraduate",
+    "Course":"Web Design",
+    "Identification_code": "CIS2002",
+    "Learning_outcomes": ["L01", "LO3"],
+    "Exit_awards": ["1", "2:1", "2:2", "3"],
+    "Degree_leader": "Peter Matthews",
+    "Module": {
+      "Name": "Web Coding",
+      "Identification_code": "CIS2162",
+      "Learning_outcomes":["LO1", "LO3"],
+      "Assignment":["CW1", "CW2"],
+      "submission_date": "08/05/19",
+      "Number_of_hours": "4",
+      "Volume":["1000 words", "4000 words"],
+      "weights":["20%", "80%"],
+      "Number_of_credits": "20",
+      "Lead_academic": "Hari Pandey",
+      "Time_Slot": {
+        "Day": "Friday",
+        "Time": ["11:00", "13:00"],
+        "Room": "G02",
+        "Tutor": "Dave Walsh",
+
+    },
+  },
+},
+
 ]
