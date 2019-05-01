@@ -19,7 +19,7 @@
         "TimeSlot": {
           "Day": ["Monday", "Thursday"],
           "Time": "13:00",
-          "Number_of_hours": "3",
+          "NumberOfHours": "3",
           "Room": "F02",
           "Tutor": "Peter Matthews"
     }
