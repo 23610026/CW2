@@ -3,7 +3,6 @@
     "Name": "Undergraduate",
     "Course":"Web Development",
     "Code": "CIS2001",
-    "LearningOutcomes": ["L01", "LO2"],
     "Module": {
       "LearningOutcomes":["LO1", "LO2"],
       "Assignment":["CW1", "CW2"],
