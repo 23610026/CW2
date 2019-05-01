@@ -1,84 +1,33 @@
 [
   {
-    "Name": "Research",
-    "Course":"Electronics and Computing",
-    "Identification_code": "CIS5022",
-    "Learning_outcomes": ["L01", "LO4"],
-    "Exit_awards": ["1", "2:1", "2:2", "3"],
-    "Degree_leader": "Ryland Dawson",
+    "Name": "Undergraduate",
+    "Course":"Web Development",
     "Module": {
-      "Name": "Physical Sciences",
-      "Identification_code": "CIS5111",
-      "Learning_outcomes":["LO3", "LO5"],
-      "Assignment":"CW1",
-      "submission_date": "30/04/19",
-      "Number_of_hours": "3",
-      "Volume":"5000 words",
-      "weights":["100%"],
-      "Number_of_credits": "20",
-      "Lead_academic": "Shane Adams",
-        "Time_Slot": {
-          "Day": "Monday",
-          "Time": "10:00",
-          "Room": "F04",
-          "Tutor": "Peter Matthews",
-      },
-
-    },
-  },
-  {
-    "Name": "Research",
-    "Course":"Computer Science",
-    "Identification_code": "CIS5125",
-    "Learning_outcomes": ["L02", "LO3"],
-    "Exit_awards": ["1", "2:1", "2:2", "3"],
-    "Degree_leader": "Eleesha Milward",
-    "Module": {
-      "Name": "Research Methods",
-      "Identification_code": "CIS5551",
-      "Learning_outcomes":["LO1", "LO3"],
-      "Assignment":"CW1",
-      "submission_date": "01/05/19",
-      "Number_of_hours": "4",
-      "Volume":"6000 words",
-      "weights":"100%",
-      "Number_of_credits": "20",
-      "Lead_academic": "Elliot Black",
-        "Time_Slot": {
-          "Day": ["Thursday"],
-          "Time": "09:00",
-          "Room": "G01",
-          "Tutor": "Shane Welsh",
-    },
-
-  },
-  },
-  {
-    "Name": "Research",
-    "Course":"Games Marketing",
-    "Identification_code": "CIS5522",
-    "Learning_outcomes": ["L01", "LO3"],
-    "Exit_awards": ["1", "2:1", "2:2", "3"],
-    "Degree_leader": "Joseph Turner",
-    "Module": {
-      "Name": "Enviromental Design",
-      "Identification_code": "CIS5222",
-      "Learning_outcomes":["LO1", "LO5"],
+      "Learning_outcomes":["LO1", "LO2"],
       "Assignment":["CW1", "CW2"],
-      "submission_date": "17/05/19",
-      "Number_of_hours": "5",
-      "Volume":["5000 words", "5000 words"],
-      "weights":["50%", "50%"],
-      "Number_of_credits": "20",
-      "Lead_academic": "Lucy Blackwell",
-        "Time_Slot": {
-          "Day": ["Monday", "Thursday"],
-          "Time": ["13:00", "12:00"],
-          "Room": "F06",
-          "Tutor": "Anthony Hope",
-
-    },
+      "Volume":["1000 words", "4000 words"],
+      "weights":["20%", "80%"]
+    }
   },
-},
-
+  {
+    "Name": "Post-Graduate",
+    "Course":"Big Data",
+    "Module": {
+    "Learning_outcomes":["LO1", "LO2"],
+    "Assignment":["CW1", "CW2"],
+    "Volume":["1000 words", "4000 words"],
+    "weights":["20%", "80%"]
+    }
+  },
+  {
+    "Name": "Research",
+    "Course":"Data Mining",
+    "Module": {
+      "Learning_outcomes":["LO1", "LO2"],
+      "Assignment":["CW1", "CW2"],
+      "Volume":["1000 words", "4000 words"],
+      "weights":["20%", "80%"]
+    }
+  }
+  
 ]
