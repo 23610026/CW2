@@ -6,43 +6,7 @@
     "LearningOutcomes": ["L01", "LO2"],
     "ExitAwards": ["1", "2:1", "2:2", "3"],
     "DegreeLeader": "Dave Walsh",
-    "Module": {
-      "Name": "Data Driven Design",
-      "IdentificationCode": "CIS2169",
-      "LearningOutcomes":["LO1", "LO2"],
-      "Assignment":["CW1", "CW2"],
-      "SubmissionDate": "02/05/19",
-      "Volume":["1000 words", "4000 words"],
-      "weights":["20%", "80%"],
-    }
-  },
-  {
-    "Name": "Post-Graduate",
-    "Course":"Big Data",
-    "Code": "CIS2005",
-    "LearningOutcomes": ["L02", "LO3"],
-    "ExitAwards": ["1", "2:1", "2:2", "3"],
-    "DegreeLeader": "Hari Pandey",
-    "Module": {
-    "Learning_outcomes":["LO1", "LO2"],
-    "Assignment":["CW1", "CW2"],
-    "Volume":["1000 words", "4000 words"],
-    "weights":["20%", "80%"]
-    }
-  },
-  {
-    "Name": "Research",
-    "Course":"Data Mining",
-    "Code": "CIS2002",
-    "LearningOutcomes": ["L01", "LO3"],
-    "ExitAwards": ["1", "2:1", "2:2", "3"],
-    "DegreeLeader": "Peter Matthews",
-    "Module": {
-      "Learning_outcomes":["LO1", "LO2"],
-      "Assignment":["CW1", "CW2"],
-      "Volume":["1000 words", "4000 words"],
-      "weights":["20%", "80%"]
-    }
+
   }
   
 ]
