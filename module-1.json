@@ -2,7 +2,7 @@
   {
     "Name": "Undergraduate",
     "Course":"Web Development",
-    "Identification_code": "CIS2001",
+    "IdentificationCode": "CIS2001",
     "Learning_outcomes": ["L01", "LO2"],
     "Exit_awards": ["1", "2:1", "2:2", "3"],
     "Degree_leader": "Dave Walsh",
@@ -29,7 +29,7 @@
   {
     "Name": "Undergraduate",
     "Course":"Forensics",
-    "Identification_code": "CIS2005",
+    "IdentificationCode": "CIS2005",
     "Learning_outcomes": ["L02", "LO3"],
     "Exit_awards": ["1", "2:1", "2:2", "3"],
     "Degree_leader": "Hari Pandey",
@@ -56,7 +56,7 @@
   {
     "Name": "Undergraduate",
     "Course":"Web Design",
-    "Identification_code": "CIS2002",
+    "IdentificationCode": "CIS2002",
     "Learning_outcomes": ["L01", "LO3"],
     "Exit_awards": ["1", "2:1", "2:2", "3"],
     "Degree_leader": "Peter Matthews",
