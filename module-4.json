@@ -6,10 +6,7 @@
     "LearningOutcomes": ["L01", "LO2"],
     "ExitAwards": ["1", "2:1", "2:2", "3"],
     "DegreeLeader": "Dave Walsh",
-    "Module": {
-      "Name": "Data Driven Design",
-      "IdentificationCode": "CIS2169",
-    }
+    
   },
   {
     "Name": "Post-Graduate",
