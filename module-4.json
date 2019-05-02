@@ -22,5 +22,53 @@
       "Room": "F02",
       "Tutor": "Peter Matthews"
     }
-  }
+  },
+  {
+    "Name": "Undergraduate",
+    "Course":"Web Development",
+    "Code": "CIS2001",
+    "LearningOutcomes": ["L01", "LO2"],
+    "ExitAwards": ["1", "2:1", "2:2", "3"],
+    "DegreeLeader": "Dave Walsh",
+    "Module": {
+      "Name": "Data Driven Design",
+      "IdentificationCode": "CIS2169",
+      "LearningOutcomes":["LO1", "LO2"],
+      "Assignment":["CW1", "CW2"],
+      "SubmissionDate": "02/05/19",
+      "Volume":["1000 words", "4000 words"],
+      "weights":["20%", "80%"],
+      "NumberOfCredits": "20",
+      "ModuleLeader": "Peter Matthew",
+      "Day": ["Monday", "Thursday"],
+      "Time": "13:00",
+      "NumberOfHours": "3",
+      "Room": "F02",
+      "Tutor": "Peter Matthews"
+    }
+},
+  {
+    "Name": "Undergraduate",
+    "Course":"Web Development",
+    "Code": "CIS2001",
+    "LearningOutcomes": ["L01", "LO2"],
+    "ExitAwards": ["1", "2:1", "2:2", "3"],
+    "DegreeLeader": "Dave Walsh",
+    "Module": {
+      "Name": "Data Driven Design",
+      "IdentificationCode": "CIS2169",
+      "LearningOutcomes":["LO1", "LO2"],
+      "Assignment":["CW1", "CW2"],
+      "SubmissionDate": "02/05/19",
+      "Volume":["1000 words", "4000 words"],
+      "weights":["20%", "80%"],
+      "NumberOfCredits": "20",
+      "ModuleLeader": "Peter Matthew",
+      "Day": ["Monday", "Thursday"],
+      "Time": "13:00",
+      "NumberOfHours": "3",
+      "Room": "F02",
+      "Tutor": "Peter Matthews"
+    }
+}
 ]
