@@ -130,6 +130,6 @@ function renderHTML(data){
         }
         htmlString += " at " + data[i].Module.Time + " for " + data[i].Module.NumberOfHours + " hours in room " + data[i].Module.Room + " with " + data[i].Module.Tutor + ".";
 }
-  moduleContainer.insertAdjacentHTML('beforeend', htmlString);
+  moduleContainer.insertAdjacentHTML('afterend', htmlString);
 
 }
