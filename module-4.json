@@ -15,7 +15,7 @@
       "Volume":["1000 words", "4000 words"],
       "weights":["20%", "80%"],
       "NumberOfCredits": "20",
-      "ModuleLeader": "Peter Matthew"
+      "ModuleLeader": "Peter Matthew",
       "Day": ["Monday", "Thursday"],
       "Time": "13:00",
       "NumberOfHours": "3",
