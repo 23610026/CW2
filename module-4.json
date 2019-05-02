@@ -16,7 +16,7 @@
       "weights":["20%", "80%"],
       "NumberOfCredits": "20",
       "ModuleLeader": "Peter Matthew",
-    }
+    },
       "TimeSlot": {
           "Day": ["Monday", "Thursday"],
           "Time": "13:00",
